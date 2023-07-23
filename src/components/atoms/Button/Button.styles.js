@@ -12,6 +12,7 @@ export const StyledButton = styled.button`
   align-items: center;
   align-self: flex-start;
   margin-top: -2px;
+  cursor: pointer;
 
   svg {
     width: 100%;
